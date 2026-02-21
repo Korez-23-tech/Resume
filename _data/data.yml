@@ -13,11 +13,11 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  email: chen.andrew.wayne@gmail.com
+  phone: #012 345 6789
+  timezone: America/Pacific/GMT-8 # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: United States of America
+  website: https://achen.github.io/ # Include the full website URL, including "http://" or "https://".
   linkedin: https://www.linkedin.com/in/andrew-chen-ac/
   xing: alandoe
   github: https://github.com/Korez-23-tech
@@ -73,7 +73,7 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
+  - degree: MS in Computer Science
     university: California State University, East Bay
     time: 2018 - 2020
     details: |
@@ -84,7 +84,7 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
+  - degree: BSc in Computer Science
     university: Bristol University
     time: 2007 - 2011
     details: |
