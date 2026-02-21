@@ -73,7 +73,7 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MS in Computer Science
+  - degree: M.S. in Computer Science
     university: California State University, East Bay
     time: 2018 - 2020
     details: |
@@ -84,9 +84,20 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Computer Science
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: B.S. in Computer Science
+    university: California State University, East Bay
+    time: 2014 - 2018
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: B.A. in Philosophy
+    university: California State University, East Bay
+    time: 2014 - 2018
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
