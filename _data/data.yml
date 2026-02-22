@@ -4,12 +4,12 @@
 
 sidebar:
   position: left # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Andrew Chen
-  tagline: Full Stack Developer
+  tagline: #Full Stack Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -19,7 +19,7 @@ sidebar:
   citizenship: United States of America
   website: https://achen.github.io/ # Include the full website URL, including "http://" or "https://".
   linkedin: https://www.linkedin.com/in/andrew-chen-ac/
-  xing: alandoe
+  xing: # alandoe
   github: https://github.com/Korez-23-tech
   telegram: # add your nickname without '@' sign
   gitlab: 
@@ -224,22 +224,16 @@ certifications:
     end: 9.29.2026
     organization: International Association of Accessibility Professionals (IAAP)
     credentialid: 23JACAC032
-    credentialurl: www.google.com
-    credentialname: Google
+    credentialurl: https://www.accessibilityassociation.org/
+    credentialname: IAAP
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
+      This certification demonstrates a person has a broad, cross-disciplinary conceptual knowledge about: 
+        - disabilities, 
+        - accessibility and universal design, and 
+        - accessibility-related standards, laws, and management strategies.
+      The CPACC is the ideal credential for those who manage and support accessibility. They may not personally design, implement, or evaluate the technical details of accessibility.
+      Certified roles include: Project Managers, Product Managers, department Directors, Leadership Executives, professionals in HR, Marketing, Business Development, Sales, Diversity and Inclusion (DEI) and Legal Compliance.
+      
   - name: Git learning
     start: 2019
     end:
