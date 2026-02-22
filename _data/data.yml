@@ -161,7 +161,7 @@ experiences:
         - Provided peripheral device support and maintenance (e.g. printers, scanners, monitors, etc.), hardware inventory systems, and device drivers.
   - role: Computer Science Lab Assistant, Department of Computer Science
     time: 7/2018 – 5/2020
-    company: California State University; East Bay, Hayward, California
+    company: California State University, East Bay; Hayward, California
     details: |
       DETAILS
         - Assists Undergraduate at least 30 students with their homework assignments or other miscellaneous questions.
@@ -169,7 +169,7 @@ experiences:
         - Coordinated with other Computer Science Lab Assistants on how to best operate the Lab.
   - role: Building Assistant, University Housing & Residence Life
     time: 9/2015 – 5/2020
-    company: California State University; East Bay, Hayward, California
+    company: California State University, East Bay; Hayward, California
     details: |
       DETAILS
         - Maintain the premises of Pioneer Heights by doing patrols, surveying at least 500 residents on maintenance issues, recorded information on StarRez resident and property management systems.
@@ -177,7 +177,7 @@ experiences:
         - Perform safety inspections and inventory checks on vital equipment (i.e. Fire Extinguishers, Emergency Exit Lights) for 11 large-scale residency units and storage facilities.
   - role: Teaching Associate, Department of Computer Science
     time: 5/2019 – 7/2019
-    company: California State University; East Bay, Hayward, California
+    company: California State University, East Bay; Hayward, California
     details: |
       DETAILS
         - Developed lesson plans and graded them as assigned for CS 301 Data Structures Lab.
@@ -185,15 +185,16 @@ experiences:
         - Grade CS 301 Data Structures Assignments assigned by the main professor.
   - role: Computer Science Grader, Department of Computer Science
     time: 8/2017 – 5/2019
-    company: California State University; East Bay, Hayward, California
+    company: California State University, East Bay; Hayward, California
     details: |
       DETAILS
         - Graded assignments for Computer Science students in CS 4020 & CS 230 – Computing and Social Responsibility
         - Coordinated with the professor for grading criteria, feedback, assignment inquires.
         - Communicated with at least 30 students on assignment critique and grading.
-  - role: Residential Housing Association VP of Programming, University Housing & Res. Life
+  - role: Residential Housing Association VP of Programming, 
+          University Housing & Res. Life
     time: 2/2017 – 6/2018
-    company: California State University; East Bay, Hayward, California
+    company: California State University, East Bay; Hayward, California
     details: |
       DETAILS
         - Planned and coordinated at least 5 large scale philanthropic events in the span of an academic school year for over 500 students on campus.
@@ -201,7 +202,7 @@ experiences:
         - Developed budgets and schedules for large-scale events.
   - role: Conference Housing Assistant, University Housing & Residence Life
     time: 6/2015 – 9/2015
-    company: California State University; East Bay, Hayward, California
+    company: California State University, East Bay; Hayward, California
     details: |
       DETAILS
         - Maintained sanitation and room preparation for at least 7 large-scale residency units and storage facilities according to university regulations.
@@ -209,7 +210,7 @@ experiences:
         - Tracked inventory of equipment (i.e. Housekeeping carts, linens, guests).
   - role: Area Council, VP of Finance & Floor Representative
     time: 9/2014 – 2/2017
-    company: California State University; East Bay, Hayward, California
+    company: California State University, East Bay; Hayward, California
     details: |
       DETAILS
         - Planned and coordinated philanthropic events for at least 500 students on campus
@@ -219,12 +220,12 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: Certified Professional in Accessibility Core Competencies
+  - name: Certified Professional in Accessibility Core Competencies (CPACC)
     start: 8.23.2023
     end: 9.29.2026
     organization: International Association of Accessibility Professionals (IAAP)
     credentialid: 23JACAC032
-    credentialurl: https://www.accessibilityassociation.org/
+    credentialurl: https://www.accessibilityassociation.org/cpacc
     credentialname: IAAP
     details: |
       This certification demonstrates a person has a broad, cross-disciplinary conceptual knowledge about: 
