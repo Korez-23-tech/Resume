@@ -1,3 +1,4 @@
+/*
 function print() {
   const printWindow = window.open("/print", "_blank");
   printWindow.onload = function () {
@@ -6,7 +7,7 @@ function print() {
     setTimeout(() => printWindow.close(), 500);
   };
 }
-
+*/
 function generatePDF() {
   // Get the print layout URL
   const printURL = new URL("print", window.location.href).href;
