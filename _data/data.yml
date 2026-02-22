@@ -110,9 +110,9 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Computer Science Tutor
+    time: 9/2025 - Present
+    company: City College County of San Francisco; San Francisco, California
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -123,30 +123,68 @@ experiences:
       error sit voluptatem accusantium doloremque laudantium, totam rem
       aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
       architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+        - Monitor the Computer Science Lab and assist students with software engineering homework assignments.
+        - Encourage students to attempt to solve problems on their own and provide assistance only when needed in order to develop student’s confidence in their ability to solve problems on their own.
+  - role: Math Tutor for Data Science w/Python
+    time: 9/2025 - Present
+    company: City College County of San Francisco; San Francisco, California
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
       Cum sociis natoque penatibus et magnis dis parturient montes,
       nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+        - Assisted students with learning Data Science concepts using Python, Numpy library, and Jupyter Notebooks.
+        - Taught students how to study in an immersive, double-credit academically challenging learning modality.
+  - role: Voter Records Clerk
+    time: 10/2024 – 11/2024
+    company: City and County of San Francisco; San Francisco, California
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
       Cum sociis natoque penatibus et magnis dis parturient montes,
       nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - Handled clerical work for the San Francisco Department of Elections for the City and County of San Francisco, serving the entire city of over 500,000 voters at large, serving voters at the City Hall Voting Center.
+        - Processed messages in VoteCal, a centralized, statewide database that serves as the official system of record for storing and managing voter records throughout the 58 counties in California.
+        - Compiled information and data necessary for the preparation of various departmental reports in which judgment may be exercised in the selection of data and materials.
+        - Maintained an accurate and complete voter roll, conduct ongoing voter file maintenance and validation tasks, process affidavits of registration and updates to existing voter records, and other election-related functions.
+        - Analyzed and troubleshooted complex registration situations, facilitated voter programs and services designed to enfranchise residents and encourage participation.
+  - role: Academic Technology, Technology Support Agent
+    time: 11/2021 – 9/2022
+    company: San Francisco State University; San Francisco, California
+    details: |
+      DETAILS
+        - Provide technical support to faculty, staff, students, administrators, and Academic affairs units related to academic and information technology hardware and software such as SCCM, JAMF, Windows, and MacOS.
+        - Support classroom technology needs including responding to user support requests, troubleshooting, proactively testing installations for a campus of over 500 faculty members and 20,000 students.
+        - Proactively coordinate with technical team members and document and route work using the ITSM Ticketing system ServiceNow. Handled customer complaints and provide appropriate solutions and alternative within the time limits, follow up to ensure resolution, log all transactions in Service Now ticketing system.
+        - Provided peripheral device support and maintenance (e.g. printers, scanners, monitors, etc.), hardware inventory systems, and device drivers.
+  - role: Computer Science Lab Assistant, Department of Computer Science
+    time: 7/2018 – 5/2020
+    company: California State University; East Bay, Hayward, California
+    details: |
+      DETAILS
+        - Assists Undergraduate at least 30 students with their homework assignments or other miscellaneous questions.
+        - Repair and update computer equipment, including but not limited to VirtualBox, PuTTY, and Visual Studio.
+        - Coordinated with other Computer Science Lab Assistants on how to best operate the Lab.
+  - role: BLANK
+    time: 9/2025 - Present
+    company: California State University; East Bay, Hayward, California
+    details: |
+      DETAILS
+        - POINT
+  - role: BLANK
+    time: 9/2025 - Present
+    company: California State University; East Bay, Hayward, California
+    details: |
+      DETAILS
+        - POINT
+  - role: BLANK
+    time: 9/2025 - Present
+    company: California State University; East Bay, Hayward, California
+    details: |
+      DETAILS
+        - POINT
 
 certifications:
   title: Certifications
