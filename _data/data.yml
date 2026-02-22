@@ -17,7 +17,7 @@ sidebar:
   phone: #012 345 6789
   timezone: America/Pacific/GMT-8 # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: United States of America
-  website: https://achen.github.io/ # Include the full website URL, including "http://" or "https://".
+  website: https://korez-23-tech.github.io/Resume/ # Include the full website URL, including "http://" or "https://".
   linkedin: https://www.linkedin.com/in/andrew-chen-ac/
   xing: # alandoe
   github: https://github.com/Korez-23-tech
@@ -49,15 +49,13 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: IT Help Desk & Support
       link:
 
-
-    - item: Snowboarding
+    - item: Cybersecurity
       link:
 
-
-    - item: Cooking
+    - item: Game Development
       link:
 
 
@@ -77,35 +75,28 @@ education:
     university: California State University, East Bay
     time: 2018 - 2020
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      The Department of Computer Science offers graduate study leading to the degree of Master of Science in Computer Science. This program is designed to extend the student’s knowledge in a broad manner beyond the baccalaureate degree major in Computer Science. It will both (1) deepen general understanding of theoretical principles and (2) provide exposure to important applications of Computer Science such as security, software engineering, database, networking, and others. This approach is especially important in Computer Science, where training in specific languages and systems and on specific machines is transitory, as these languages, systems, and machines evolve. In contrast, many of the principles will last, and generally apply to a wide variety of specializations within the field.  The breadth of subject material is important as many students will have a number of different job classifications in their working lives.
+
+      My particular concentration was on Machine Learning and Artifical Intelligence, ethics, computer architecture, cybersecurity, and operating systems
+        - Designed, developed, and evaluated a computer­-based system, process, component, or program to meet desired needs.
+        - Classified and explained the mechanisms, components and architecture of computing systems.
+        - Discussed professional, ethical, legal, and security issues and responsibilities, and the impact of computing on individuals, organizations and society.
   - degree: B.S. in Computer Science
     university: California State University, East Bay
     time: 2014 - 2018
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Computer Science is the study of algorithms for addressing, processing, storing, and transmitting information. It encompasses a broad perspective that includes what constitutes a computer, computer uses and applications, and theoretical approaches to what can or can’t be computed. The core curriculum in Computer Science, involving a blend of theory and practice, offers opportunities for problem solving in many areas and provides experience with a variety of computer languages and software packages. A typical student’s experience includes programming through software engineering, hardware through operating systems, and can include data solutions, web design, networking, mobile computing, artificial intelligence, hardware design, and graphic implementations ranging from interface design to computer vision.  The breadth of subject material is important as many students can expect to have a number of different job classifications throughout their careers.
+        - Applied knowledge of mathematics and computational theory to analyze problems in computer science, and identify and define the resources and requirements needed for their solution.
+        - Employed current techniques, skills, and tools necessary for computing practice, and recognize the need for continuing professional development.
+        - Identified professional, ethical, legal, and security issues and responsibilities, and the impact of computing on individuals, organizations and society.
   - degree: B.A. in Philosophy
     university: California State University, East Bay
     time: 2014 - 2018
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      The Department of Philosophy at Cal State East Bay seeks to promote the exploration of enduring human concerns - concerns, for example, about the nature of knowledge, ethics, truth, and God. In addition to emphasizing classical philosophy, the department encourages students to think critically about contemporary debates, particularly in the areas of law, human rights, and social justice; science, technology, and values; and religion. The department’s faculty strive to instill in students lifelong habits of questioning, of exploring views contrary to their own, and of engaging in reasoned and honest dialogue. By their focus on analysis, comprehension and communication, they aim to develop qualities that are essential to personal fulfillment, civic responsibility, and career success.
+        - Wrote clear, academically rigorous, argumentative essays.
+        - Learned how to read complex texts, create original arguments, analyze the arguments of others, and express these criticisms orally and in writing.
+        - Develop my capacities for ethical decision making, Socratic humility, openness to the ideas of others, reflective self-awareness, and a life-long curiosity about big questions.
 
 experiences:
   title: Experiences
