@@ -323,32 +323,25 @@ recommendations:
     email: foerster@sfsu.edu
     phone: 415-405-5562
     role: Information Technology Consultant, Academic Technology at San Francisco State University
-    recommendation: |
-
+    recommendation:
     
   - person: Andrew Roderick
     email: roderick@sfsu.edu
     phone: 415-338-6116
     role: Associate Vice President of Academic Technology at San Francisco State University
-    recommendation: |
-
-    
+    recommendation:    
 
   - person: Brian Campbell
     email: brian.campbell@csueastbay.edu
     phone: 510-885-4168
     role: Lecturer/Computer Science Technician at California State University, East Bay
-    recommendation: |
-
-    
+    recommendation:    
 
   - person: Jehu Cazares
     email: CazaresJehu@gmail.com
     phone: 805-944-4993
     role: Sr. Facilities Manager at CBRE
-    recommendation: |
-
-    
+    recommendation:    
 
   - person: Matthew Marshall
     email: bfauth@cascadia.edu
@@ -360,17 +353,13 @@ recommendations:
     email: matthew.marshall1@jll.com
     phone: 916-370-6304
     role: Jones Lang LaSalle Incorporated (JLL Inc.), Assistant Facilities Manager
-    recommendation: |
-
-    
+    recommendation:  
 
   - person: Eric Velasquez
     email: ericvelasquez@lincolnfamilies.org
     phone: 408-206-1187
     role: Lincoln Families Human Resources Manager
-    recommendation: |
-
-    
+    recommendation:    
 
 skills:
   title: Skills &amp; Proficiency
