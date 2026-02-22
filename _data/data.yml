@@ -167,33 +167,63 @@ experiences:
         - Assists Undergraduate at least 30 students with their homework assignments or other miscellaneous questions.
         - Repair and update computer equipment, including but not limited to VirtualBox, PuTTY, and Visual Studio.
         - Coordinated with other Computer Science Lab Assistants on how to best operate the Lab.
-  - role: BLANK
-    time: 9/2025 - Present
+  - role: Building Assistant, University Housing & Residence Life
+    time: 9/2015 – 5/2020
     company: California State University; East Bay, Hayward, California
     details: |
       DETAILS
-        - POINT
-  - role: BLANK
-    time: 9/2025 - Present
+        - Maintain the premises of Pioneer Heights by doing patrols, surveying at least 500 residents on maintenance issues, recorded information on StarRez resident and property management systems.
+        - Repair equipment (i.e. vacuums, furniture), rearrange furniture, inspecting rooms for damages, pest disposal.
+        - Perform safety inspections and inventory checks on vital equipment (i.e. Fire Extinguishers, Emergency Exit Lights) for 11 large-scale residency units and storage facilities.
+  - role: Teaching Associate, Department of Computer Science
+    time: 5/2019 – 7/2019
     company: California State University; East Bay, Hayward, California
     details: |
       DETAILS
-        - POINT
-  - role: BLANK
-    time: 9/2025 - Present
+        - Developed lesson plans and graded them as assigned for CS 301 Data Structures Lab.
+        - Assists Undergraduate at least 30 students with their homework assignments or other miscellaneous questions.
+        - Grade CS 301 Data Structures Assignments assigned by the main professor.
+  - role: Computer Science Grader, Department of Computer Science
+    time: 8/2017 – 5/2019
     company: California State University; East Bay, Hayward, California
     details: |
       DETAILS
-        - POINT
+        - Graded assignments for Computer Science students in CS 4020 & CS 230 – Computing and Social Responsibility
+        - Coordinated with the professor for grading criteria, feedback, assignment inquires.
+        - Communicated with at least 30 students on assignment critique and grading.
+  - role: Residential Housing Association VP of Programming, University Housing & Res. Life
+    time: 2/2017 – 6/2018
+    company: California State University; East Bay, Hayward, California
+    details: |
+      DETAILS
+        - Planned and coordinated at least 5 large scale philanthropic events in the span of an academic school year for over 500 students on campus.
+        - Work with fellow Executive Board members to plan programming for residents.
+        - Developed budgets and schedules for large-scale events.
+  - role: Conference Housing Assistant, University Housing & Residence Life
+    time: 6/2015 – 9/2015
+    company: California State University; East Bay, Hayward, California
+    details: |
+      DETAILS
+        - Maintained sanitation and room preparation for at least 7 large-scale residency units and storage facilities according to university regulations.
+        - Cooperated with other coworkers, teams of 4 to 5 people, to sanitize the premise.
+        - Tracked inventory of equipment (i.e. Housekeeping carts, linens, guests).
+  - role: Area Council, VP of Finance & Floor Representative
+    time: 9/2014 – 2/2017
+    company: California State University; East Bay, Hayward, California
+    details: |
+      DETAILS
+        - Planned and coordinated philanthropic events for at least 500 students on campus
+        - Budget analysis and allocated spending tracking.
+        - Collaborated with executive board members to allocate funding for projects.
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
+  - name: Certified Professional in Accessibility Core Competencies
+    start: 8.23.2023
+    end: 9.29.2026
+    organization: International Association of Accessibility Professionals (IAAP)
+    credentialid: 23JACAC032
     credentialurl: www.google.com
     credentialname: Google
     details: |
@@ -292,7 +322,7 @@ publications:
     conference: "Comm. ACM 4 (1961), 51–55"
 
 recommendations:
-  title: Recommendations
+  title: Recommendations 
   list:
   - person: Yareli Perez
     email: perezyareli@example.com
