@@ -58,7 +58,12 @@ sidebar:
     - item: Game Development
       link:
 
-
+    - item: Computer Networking
+      link:
+    
+    - item: Ethics & Philosophy
+      link:
+    
 career-profile:
   title: Career Profile
   summary: |
