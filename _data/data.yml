@@ -240,15 +240,15 @@ certifications:
 #      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
 #      Praesent venenatis erat non augue suscipit consectetur.
 
-#projects:
-#  title: Projects
-#  intro: >
-#    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#  assignments:
-#  - title: Velocity
-#    link: "#hook"
-#    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
+projects:
+  title: Projects
+  intro: >
+    These are side projects I've completed for personal and professional use.
+  assignments:
+  - title: Resume
+    link: "https://korez-23-tech.github.io/Resume/"
+    tagline: "Built using Github Pages, this is Andrew Chen's Resume."
+
 #  - title: DevStudio
 #    link: "#"
 #    tagline: "A responsive website template designed to help web developers/designers market their services."
