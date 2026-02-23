@@ -372,7 +372,36 @@ skills:
   title: Application Proficiency
 
   toolset:
-  - name: C++, JavaScript, Python, MongoDB, NLTK, HTML, ServiceNow, Microsoft Office 365 (e.g. Excel, Word, Visio, Teams, etc.), JAMF, SCCM, Adobe Suite of Applications, Zoom, Windows 10/11, MacOS, Linux, StarRez, Avaya
+  - name: ServiceNow, Avaya
+    level: 
+
+  - name: JAMF, SCCM
+    level: 
+
+  - name: StarRez, Zoom
+    level: 
+
+  - name: Windows 10/11, MacOS, Linux
+    level: 
+
+
+  - name: C++, JavaScript
+    level: 
+
+
+  - name: Python, MongoDB
+    level: 
+
+
+  - name: NLTK, HTML5, CSS
+    level: 
+
+
+  - name: Microsoft Office 365 (e.g. Excel, Word, Visio, Teams, etc.)
+    level: 
+
+
+  - name: Adobe Suite of Applications
     level: 
 
 #  - name: Javascript & jQuery
